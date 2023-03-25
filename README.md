@@ -11,7 +11,7 @@ Proyecto Empleados para la Empresa Logistic, usando mysql cómo base de Datos y 
 
 ## GIT
 
-https://github.com/rortizs/MiWebApp.git
+https://github.com/rortizs/Prrimera_App_Sanarate.git
 
 ## Used By
 
