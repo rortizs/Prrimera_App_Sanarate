@@ -1,9 +1,9 @@
 <?php
 
-$servidor="localhost";
-$baseDatos="MiApp_sanarate";
-$usuario="root";
-$clave="";
+$servidor="localhost";//ip
+$baseDatos="MiApp_sanarate"; //dbname
+$usuario="root";//user
+$clave="";//password
 
 //try to connection from database
 try {
