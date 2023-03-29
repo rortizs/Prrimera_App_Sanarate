@@ -24,7 +24,7 @@ ufw allow OpenSSH <-->estoy habilitando el acceso al nuevo usuario
 
 comando ssh sammy@your_server_ip (desde una nueva terminal)
 
-## Ahora se procede a instalar LAMP (APACHE, MYSQL, PHP) LEMP(NGX, MYSQL, PHP)
+## Ahora se procede a instalar LAMP (LINUX,APACHE, MYSQL, PHP) LEMP(LINUX,NGX, MYSQL, PHP)
 ### LAMP
 1- sudo apt update (actializar repositorios)
 2- sudo apt install apache2 (isntala apache2 en ubuntu)
